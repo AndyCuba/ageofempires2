@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/AndyCuba/ageofempires2/static/js/main.cef63b29.chunk.js",
-    "main.js.map": "/AndyCuba/ageofempires2/static/js/main.cef63b29.chunk.js.map",
-    "runtime-main.js": "/AndyCuba/ageofempires2/static/js/runtime-main.d8b1b39f.js",
-    "runtime-main.js.map": "/AndyCuba/ageofempires2/static/js/runtime-main.d8b1b39f.js.map",
-    "static/js/2.8ff83d12.chunk.js": "/AndyCuba/ageofempires2/static/js/2.8ff83d12.chunk.js",
-    "static/js/2.8ff83d12.chunk.js.map": "/AndyCuba/ageofempires2/static/js/2.8ff83d12.chunk.js.map",
-    "index.html": "/AndyCuba/ageofempires2/index.html",
-    "static/js/2.8ff83d12.chunk.js.LICENSE.txt": "/AndyCuba/ageofempires2/static/js/2.8ff83d12.chunk.js.LICENSE.txt",
-    "static/media/bg5.0e6ac9fe.jpg": "/AndyCuba/ageofempires2/static/media/bg5.0e6ac9fe.jpg",
-    "static/media/scroll.e8deb4fc.png": "/AndyCuba/ageofempires2/static/media/scroll.e8deb4fc.png"
+    "main.js": "/ageofempires2/static/js/main.cef63b29.chunk.js",
+    "main.js.map": "/ageofempires2/static/js/main.cef63b29.chunk.js.map",
+    "runtime-main.js": "/ageofempires2/static/js/runtime-main.a73e681f.js",
+    "runtime-main.js.map": "/ageofempires2/static/js/runtime-main.a73e681f.js.map",
+    "static/js/2.dd79e5f9.chunk.js": "/ageofempires2/static/js/2.dd79e5f9.chunk.js",
+    "static/js/2.dd79e5f9.chunk.js.map": "/ageofempires2/static/js/2.dd79e5f9.chunk.js.map",
+    "index.html": "/ageofempires2/index.html",
+    "static/js/2.dd79e5f9.chunk.js.LICENSE.txt": "/ageofempires2/static/js/2.dd79e5f9.chunk.js.LICENSE.txt",
+    "static/media/bg5.0e6ac9fe.jpg": "/ageofempires2/static/media/bg5.0e6ac9fe.jpg",
+    "static/media/scroll.e8deb4fc.png": "/ageofempires2/static/media/scroll.e8deb4fc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8b1b39f.js",
-    "static/js/2.8ff83d12.chunk.js",
+    "static/js/runtime-main.a73e681f.js",
+    "static/js/2.dd79e5f9.chunk.js",
     "static/js/main.cef63b29.chunk.js"
   ]
 }
