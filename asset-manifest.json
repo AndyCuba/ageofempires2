@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ageofempires2/static/js/main.58d4ffae.chunk.js",
-    "main.js.map": "/ageofempires2/static/js/main.58d4ffae.chunk.js.map",
+    "main.js": "/ageofempires2/static/js/main.cd7ef197.chunk.js",
+    "main.js.map": "/ageofempires2/static/js/main.cd7ef197.chunk.js.map",
     "runtime-main.js": "/ageofempires2/static/js/runtime-main.a73e681f.js",
     "runtime-main.js.map": "/ageofempires2/static/js/runtime-main.a73e681f.js.map",
     "static/js/2.dd79e5f9.chunk.js": "/ageofempires2/static/js/2.dd79e5f9.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.a73e681f.js",
     "static/js/2.dd79e5f9.chunk.js",
-    "static/js/main.58d4ffae.chunk.js"
+    "static/js/main.cd7ef197.chunk.js"
   ]
 }
